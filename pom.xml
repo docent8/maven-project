@@ -63,11 +63,10 @@
 				<version>2.0</version>
 				<configuration>
 					<deploymentType>arm</deploymentType>
-					<muleVersion>3.7.3</muleVersion>
 					<username>docent8</username>
 					<password>Bogusia1</password>
-					<workerType>Micro</workerType>
-					<redeploy>true</redeploy>
+					<target>server</target>
+					<targetType>server</targetType>
 					<environment>Sandbox</environment>
 				</configuration>
 				<executions>
