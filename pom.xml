@@ -62,7 +62,7 @@
 				<artifactId>mule-maven-plugin</artifactId>
 				<version>2.0</version>
 				<configuration>
-					<deploymentType>cloudhub</deploymentType>
+					<deploymentType>arm</deploymentType>
 					<muleVersion>3.7.3</muleVersion>
 					<username>docent8</username>
 					<password>Bogusia1</password>
